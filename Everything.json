@@ -1,0 +1,852 @@
+[
+  {
+    "revisionId": "dadb65e9-5c8c-4c4e-a8b7-41bb396718a6",
+    "class": "sheet",
+    "rootTopic": {
+      "class": "topic",
+      "title": "Everything",
+      "structureClass": "org.xmind.ui.map.unbalanced",
+      "extensions": [
+        {
+          "provider": "org.xmind.ui.map.unbalanced",
+          "content": [
+            {
+              "name": "right-number",
+              "content": "1"
+            }
+          ]
+        }
+      ],
+      "children": {
+        "attached": [
+          {
+            "title": "Concepts",
+            "children": {
+              "attached": [
+                {
+                  "title": "Team",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Protocols",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Security",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "title": "OAuth2"
+                                  }
+                                ]
+                              }
+                            },
+                            {
+                              "title": "Communication",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "title": "HTTP",
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "title": "GraphQL"
+                                        },
+                                        {
+                                          "title": "REST"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Patterns",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Service-oriented patterns",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "API Gateway"
+                            },
+                            {
+                              "title": "Service Discovery"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Event-driven patterns",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "CQRS"
+                            },
+                            {
+                              "title": "Event sourcing"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Microservice patterns",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Saga"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Architectures",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Microservice-based architecture"
+                      },
+                      {
+                        "title": "Service-oriented architecture (SOA)"
+                      },
+                      {
+                        "title": "Event-driven architecture (EDA)"
+                      },
+                      {
+                        "title": "Monolithic architecture"
+                      },
+                      {
+                        "title": "Migration",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Monolith to microservice"
+                            }
+                          ]
+                        },
+                        "style": {
+                          "properties": {
+                            "fill-pattern": "solid"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Algorithms"
+                },
+                {
+                  "title": "Data structures",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Continuous Integration / Continuous Deployment (CI/CD) ",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Deployment",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "title": "Deployment strategies"
+                                  }
+                                ]
+                              }
+                            },
+                            {
+                              "title": "Integration"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Technologies",
+            "position": {
+              "x": -242,
+              "y": -6
+            },
+            "children": {
+              "attached": [
+                {
+                  "title": "Programming languages",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "JavaScript"
+                      },
+                      {
+                        "title": "Java"
+                      },
+                      {
+                        "title": "Frameworks",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Spring Framework",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "title": "Spring Boot"
+                                  },
+                                  {
+                                    "title": "Spring Security"
+                                  },
+                                  {
+                                    "title": "Spring Data JPA"
+                                  }
+                                ]
+                              }
+                            },
+                            {
+                              "title": "Vue.js"
+                            }
+                          ]
+                        },
+                        "style": {
+                          "properties": {
+                            "fill-pattern": "solid"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Cloud",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Azure",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Azure DevOps"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "AWS"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Data storage",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Databases",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Relational (SQL)",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "title": "MySQL"
+                                  },
+                                  {
+                                    "title": "PostgreSQL"
+                                  },
+                                  {
+                                    "title": "Database schema"
+                                  }
+                                ]
+                              }
+                            },
+                            {
+                              "title": "Non-relational (NoSQL)",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "title": "MongoDB"
+                                  }
+                                ]
+                              }
+                            },
+                            {
+                              "title": "Migrations",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "title": "Liquibase"
+                                  },
+                                  {
+                                    "title": "Flyway"
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        },
+                        "style": {
+                          "properties": {
+                            "fill-pattern": "solid"
+                          }
+                        }
+                      },
+                      {
+                        "title": "Messaging",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Apache Kafka"
+                            },
+                            {
+                              "title": "RabbitMQ"
+                            }
+                          ]
+                        },
+                        "style": {
+                          "properties": {
+                            "fill-pattern": "solid"
+                          }
+                        }
+                      },
+                      {
+                        "title": "Caching",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Redis"
+                            },
+                            {
+                              "title": "etcd"
+                            }
+                          ]
+                        },
+                        "style": {
+                          "properties": {
+                            "fill-pattern": "solid"
+                          }
+                        }
+                      },
+                      {
+                        "title": "Object storage",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "MinIO"
+                            }
+                          ]
+                        },
+                        "style": {
+                          "properties": {
+                            "fill-pattern": "solid"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Observability",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Logging",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Logstash"
+                            },
+                            {
+                              "title": "ElasticSearch"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Tracing"
+                      },
+                      {
+                        "title": "Monitoring",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Kibana"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "ELK stack"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Version control",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Git"
+                      },
+                      {
+                        "title": "Subversion (SVN)"
+                      },
+                      {
+                        "title": "Mercurial"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Testing",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Unit testing"
+                      },
+                      {
+                        "title": "Integration testing"
+                      },
+                      {
+                        "title": "Performance testing"
+                      },
+                      {
+                        "title": "End-to-End (E2E) testing"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Authentication",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Keycloak"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Containerization",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Docker",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Docker Compose"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Kubernetes (k8s)",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Helm"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Integration",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Dell Boomi"
+                      },
+                      {
+                        "title": "Debezium"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "relationships": [
+      {
+        "end1Id": "52beccc0-a53b-4039-94c0-b67f9fbcf337",
+        "end2Id": "cd8236ce-db77-41a6-9611-28fd8c70a3e7",
+        "title": "for",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "25be57c4-f5a7-4a6a-8a36-5e612d67183b",
+        "end2Id": "a3fad254-51b8-4b78-91d7-a06765323ab3",
+        "title": "includes",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "25be57c4-f5a7-4a6a-8a36-5e612d67183b",
+        "end2Id": "97e37d19-6ff7-4748-a3f9-72bcef1b43b1",
+        "title": "includes",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "25be57c4-f5a7-4a6a-8a36-5e612d67183b",
+        "end2Id": "fcab612c-bf11-4d40-8659-259d846260a3",
+        "title": "includes",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "2e5d59ec-3b1e-4d07-8d94-55143b49cd16",
+        "end2Id": "638ea3ca-846a-46bb-928c-3f2aeaba413a",
+        "title": "for",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "ac12be08-475f-49cf-b6db-c70cfb96d7a6",
+        "end2Id": "3ed6a09f-f0f9-450e-82ff-2fbe42c30e98",
+        "title": "is",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "41729cd9-3dc1-4a7b-a1e2-bc2e1dce9ce6",
+        "end2Id": "032343c4-c09c-4ffd-8ffa-47f81fbc8a80",
+        "title": "comprise",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "a96389fc-2201-413a-8f23-90e5b817afd5",
+        "end2Id": "6a63f2b5-9cb2-4f4c-9062-f5b85d73da27",
+        "title": "comprise",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "4e9b8121-b696-41ba-885f-cee9c2393630",
+        "end2Id": "52f38871-ab2d-46f0-98ad-e158dc87ed9d",
+        "title": "comprise",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      }
+    ],
+    "title": "Mind Map",
+    "topicOverlapping": "overlap",
+    "arrangeableLayerOrder": [
+      "a81aaf27-912e-45dd-ae58-e1afe91a4a62"
+    ],
+    "zones": [],
+    "extensions": [
+      {
+        "provider": "org.xmind.ui.skeleton.structure.style",
+        "content": {
+          "centralTopic": "org.xmind.ui.map.clockwise",
+          "mainTopic": "org.xmind.ui.logic.right"
+        }
+      }
+    ],
+    "style": {
+      "properties": {
+        "multi-line-colors": "none"
+      }
+    },
+    "theme": {
+      "map": {
+        "properties": {
+          "svg:fill": "#ffffff",
+          "multi-line-colors": "#9ceaef #68d8d6 #06AFA9",
+          "color-list": "#ffffff #c4fff9 #9ceaef #68d8d6 #06AFA9 #046562",
+          "line-tapered": "none"
+        }
+      },
+      "centralTopic": {
+        "properties": {
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "30pt",
+          "fo:font-weight": "800",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "center",
+          "svg:fill": "#046562",
+          "fill-pattern": "none",
+          "line-width": "2pt",
+          "line-color": "#046562",
+          "line-pattern": "solid",
+          "border-line-color": "inherited",
+          "border-line-width": "0pt",
+          "border-line-pattern": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.curve",
+          "arrow-end-class": "org.xmind.arrowShape.none",
+          "alignment-by-level": "inherited"
+        }
+      },
+      "mainTopic": {
+        "properties": {
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "18pt",
+          "fo:font-weight": "500",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "left",
+          "svg:fill": "inherited",
+          "fill-pattern": "solid",
+          "line-width": "2pt",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "border-line-color": "inherited",
+          "border-line-width": "0pt",
+          "border-line-pattern": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "arrow-end-class": "inherited",
+          "alignment-by-level": "inherited"
+        }
+      },
+      "subTopic": {
+        "properties": {
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-weight": "400",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "left",
+          "svg:fill": "inherited",
+          "fill-pattern": "none",
+          "line-width": "2pt",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "border-line-color": "inherited",
+          "border-line-width": "0pt",
+          "border-line-pattern": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "arrow-end-class": "inherited",
+          "alignment-by-level": "inherited"
+        }
+      },
+      "floatingTopic": {
+        "properties": {
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-weight": "500",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "left",
+          "svg:fill": "#9ceaef",
+          "fill-pattern": "solid",
+          "line-width": "2pt",
+          "line-color": "inherited",
+          "line-pattern": "solid",
+          "border-line-color": "#9ceaef",
+          "border-line-width": "0pt",
+          "border-line-pattern": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "arrow-end-class": "org.xmind.arrowShape.none",
+          "alignment-by-level": "inherited"
+        }
+      },
+      "summaryTopic": {
+        "properties": {
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-weight": "400",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "left",
+          "svg:fill": "#06AFA9",
+          "fill-pattern": "none",
+          "line-width": "inherited",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "border-line-color": "#06AFA9",
+          "border-line-width": "inherited",
+          "border-line-pattern": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "arrow-end-class": "inherited",
+          "alignment-by-level": "inherited"
+        }
+      },
+      "calloutTopic": {
+        "properties": {
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-weight": "400",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "left",
+          "svg:fill": "#06AFA9",
+          "fill-pattern": "solid",
+          "line-width": "inherited",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "border-line-color": "#06AFA9",
+          "border-line-width": "inherited",
+          "border-line-pattern": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "arrow-end-class": "inherited",
+          "alignment-by-level": "inherited"
+        }
+      },
+      "importantTopic": {
+        "properties": {
+          "fo:font-weight": "bold",
+          "svg:fill": "#6769d8ff",
+          "fill-pattern": "solid",
+          "border-line-color": "#6769d8ff",
+          "border-line-width": "0"
+        }
+      },
+      "minorTopic": {
+        "properties": {
+          "fo:font-weight": "bold",
+          "svg:fill": "#ba67d7ff",
+          "fill-pattern": "solid",
+          "border-line-color": "#ba67d7ff",
+          "border-line-width": "0"
+        }
+      },
+      "expiredTopic": {
+        "properties": {
+          "fo:text-decoration": "line-through",
+          "fill-pattern": "none"
+        }
+      },
+      "boundary": {
+        "properties": {
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-weight": "400",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "center",
+          "svg:fill": "#046562",
+          "fill-pattern": "solid",
+          "line-width": "2",
+          "line-color": "#046562",
+          "line-pattern": "dash",
+          "shape-class": "org.xmind.boundaryShape.roundedRect"
+        }
+      },
+      "summary": {
+        "properties": {
+          "line-width": "2pt",
+          "line-color": "#046562",
+          "line-pattern": "solid",
+          "shape-class": "org.xmind.summaryShape.round"
+        }
+      },
+      "relationship": {
+        "properties": {
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "13pt",
+          "fo:font-weight": "400",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "center",
+          "line-width": "2",
+          "line-color": "#046562",
+          "line-pattern": "dash",
+          "shape-class": "org.xmind.relationshipShape.curved",
+          "arrow-begin-class": "org.xmind.arrowShape.none",
+          "arrow-end-class": "org.xmind.arrowShape.triangle"
+        }
+      },
+      "level3": {
+        "properties": {
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-weight": "400",
+          "fo:font-style": "normal",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "left",
+          "fill-pattern": "solid",
+          "line-width": "2pt",
+          "line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "border-line-pattern": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "arrow-end-class": "inherited",
+          "alignment-by-level": "inherited"
+        }
+      },
+      "zone": {
+        "properties": {
+          "fo:color": "inherited",
+          "svg:fill": "#04656233",
+          "border-line-color": "#046562"
+        }
+      },
+      "skeletonThemeId": "8f137afe-a0f3-4f25-b56a-cfd05993ef4b",
+      "colorThemeId": "Rainforest-#ffffff-MULTI_LINE_COLORS"
+    }
+  }
+]
