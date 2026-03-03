@@ -23,39 +23,35 @@
             "children": {
               "attached": [
                 {
-                  "title": "Team",
+                  "title": "Team"
+                },
+                {
+                  "title": "Protocols",
                   "children": {
                     "attached": [
                       {
-                        "title": "Protocols",
+                        "title": "Security",
                         "children": {
                           "attached": [
                             {
-                              "title": "Security",
-                              "children": {
-                                "attached": [
-                                  {
-                                    "title": "OAuth2"
-                                  }
-                                ]
-                              }
-                            },
+                              "title": "OAuth2"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Communication",
+                        "children": {
+                          "attached": [
                             {
-                              "title": "Communication",
+                              "title": "HTTP",
                               "children": {
                                 "attached": [
                                   {
-                                    "title": "HTTP",
-                                    "children": {
-                                      "attached": [
-                                        {
-                                          "title": "GraphQL"
-                                        },
-                                        {
-                                          "title": "REST"
-                                        }
-                                      ]
-                                    }
+                                    "title": "GraphQL"
+                                  },
+                                  {
+                                    "title": "REST"
                                   }
                                 ]
                               }
@@ -430,30 +426,30 @@
                     "attached": [
                       {
                         "title": "Keycloak"
-                      },
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Containerization",
+                  "children": {
+                    "attached": [
                       {
-                        "title": "Containerization",
+                        "title": "Docker",
                         "children": {
                           "attached": [
                             {
-                              "title": "Docker",
-                              "children": {
-                                "attached": [
-                                  {
-                                    "title": "Docker Compose"
-                                  }
-                                ]
-                              }
-                            },
+                              "title": "Docker Compose"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Kubernetes (k8s)",
+                        "children": {
+                          "attached": [
                             {
-                              "title": "Kubernetes (k8s)",
-                              "children": {
-                                "attached": [
-                                  {
-                                    "title": "Helm"
-                                  }
-                                ]
-                              }
+                              "title": "Helm"
                             }
                           ]
                         }
