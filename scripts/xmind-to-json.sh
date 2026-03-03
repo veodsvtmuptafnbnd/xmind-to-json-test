@@ -15,6 +15,7 @@ for file in $FILES; do
 
   # Extract content.json from xmind archive
   unzip -p "$file" content.json 2>/dev/null \
+    | jq 'del(.controlPoints, .revisionId)' \
     | jq -S . \
     > "$json_file"
 

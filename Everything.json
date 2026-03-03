@@ -30,7 +30,7 @@
         "end2Id": "cd8236ce-db77-41a6-9611-28fd8c70a3e7",
         "id": "e184a68e-8a3c-46df-977e-2587bb96399c",
         "style": {
-          "id": "c8ba2b6c-2382-465f-b977-e898a20f40e3",
+          "id": "629d888c-f9f9-4ab6-8b4f-38ae6a8a1472",
           "properties": {
             "fo:color": "#00A99DFF"
           }
@@ -52,7 +52,7 @@
         "end2Id": "a3fad254-51b8-4b78-91d7-a06765323ab3",
         "id": "b4817fbd-715c-42f3-a6b4-e31b9e69443f",
         "style": {
-          "id": "ba143142-8b49-400a-a71a-f04cd5eeb97b",
+          "id": "01407644-801e-46c7-b063-d8a6a26a2d6c",
           "properties": {
             "fo:color": "#00A99DFF"
           }
@@ -74,7 +74,7 @@
         "end2Id": "97e37d19-6ff7-4748-a3f9-72bcef1b43b1",
         "id": "88d8f5ab-fa18-4fb2-9d5c-7fd9c992e911",
         "style": {
-          "id": "516b2731-3f2d-447c-b957-c640a76f54c3",
+          "id": "88b90204-2310-4f49-9e36-209214f1f3cf",
           "properties": {
             "fo:color": "#00A99DFF"
           }
@@ -92,7 +92,7 @@
         "end2Id": "fcab612c-bf11-4d40-8659-259d846260a3",
         "id": "4b09dabf-c8a5-42ae-a323-7c287703df9c",
         "style": {
-          "id": "6812df73-2ac4-4c3e-acbb-5491f8741497",
+          "id": "a8929f32-5147-4178-ad6e-97058459eda8",
           "properties": {
             "fo:color": "#00A99DFF"
           }
@@ -110,7 +110,7 @@
         "end2Id": "638ea3ca-846a-46bb-928c-3f2aeaba413a",
         "id": "f22f25a2-2fe8-4f83-adc7-949534c5d2b6",
         "style": {
-          "id": "abc22c2d-1ec8-4cfd-bb3e-40c3d4188419",
+          "id": "ff851755-d373-4c03-a727-ad1fb7c10a94",
           "properties": {
             "fo:color": "#00A99DFF"
           }
@@ -124,15 +124,15 @@
             "y": 114.52786668698877
           },
           "1": {
-            "x": 18,
-            "y": -194
+            "x": 24,
+            "y": -197
           }
         },
         "end1Id": "ac12be08-475f-49cf-b6db-c70cfb96d7a6",
         "end2Id": "3ed6a09f-f0f9-450e-82ff-2fbe42c30e98",
         "id": "4747aead-49bc-413f-abfd-d137e8ee817c",
         "style": {
-          "id": "24bbf83a-5fc6-421a-b902-62511b97d66a",
+          "id": "b1a247f3-62e4-475f-a5b0-1967d28f58a7",
           "properties": {
             "fo:color": "#00A99DFF"
           }
@@ -154,7 +154,7 @@
         "end2Id": "032343c4-c09c-4ffd-8ffa-47f81fbc8a80",
         "id": "47a0bb07-f603-4366-abe6-b5a8aada95ee",
         "style": {
-          "id": "8f78ca78-1926-4697-8cc4-3cb03994e2a7",
+          "id": "b41f8e73-64ea-485d-bb99-5d5cecd03ae2",
           "properties": {
             "fo:color": "#00A99DFF"
           }
@@ -186,7 +186,7 @@
           }
         },
         "style": {
-          "id": "31ab73c8-4bc3-432c-abbc-1ecad9a4b3a1",
+          "id": "95761d75-518c-4028-9e97-4725b8b37962",
           "properties": {
             "fo:color": "#00A99DFF"
           }
@@ -218,7 +218,7 @@
           }
         },
         "style": {
-          "id": "0b1d93d6-c777-4465-ab61-116e1fbdd521",
+          "id": "bde3fe8f-c1ee-48b4-963e-54573908f094",
           "properties": {
             "fo:color": "#00A99DFF"
           }
@@ -226,7 +226,7 @@
         "title": "comprise"
       }
     ],
-    "revisionId": "dadb65e9-5c8c-4c4e-a8b7-41bb396718a6",
+    "revisionId": "bd60a8f9-b515-4aa7-9230-acfdced248a9",
     "rootTopic": {
       "children": {
         "attached": [
@@ -234,8 +234,24 @@
             "children": {
               "attached": [
                 {
+                  "id": "9b608165-8501-4adf-b52c-9a3037faaa85",
+                  "title": "Team"
+                },
+                {
                   "children": {
                     "attached": [
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "94bea004-332b-4516-a5b2-9ecd6a572060",
+                              "title": "OAuth2"
+                            }
+                          ]
+                        },
+                        "id": "08164afa-4034-4a7c-891d-65d44d0071de",
+                        "title": "Security"
+                      },
                       {
                         "children": {
                           "attached": [
@@ -243,47 +259,27 @@
                               "children": {
                                 "attached": [
                                   {
-                                    "id": "94bea004-332b-4516-a5b2-9ecd6a572060",
-                                    "title": "OAuth2"
-                                  }
-                                ]
-                              },
-                              "id": "08164afa-4034-4a7c-891d-65d44d0071de",
-                              "title": "Security"
-                            },
-                            {
-                              "children": {
-                                "attached": [
+                                    "id": "194b82cc-c8a8-4909-b47a-4c36acf0876e",
+                                    "title": "GraphQL"
+                                  },
                                   {
-                                    "children": {
-                                      "attached": [
-                                        {
-                                          "id": "194b82cc-c8a8-4909-b47a-4c36acf0876e",
-                                          "title": "GraphQL"
-                                        },
-                                        {
-                                          "id": "ef944a49-9e37-433b-b4ac-d9cb9a4ed03d",
-                                          "title": "REST"
-                                        }
-                                      ]
-                                    },
-                                    "id": "df5e85fd-3613-402c-9b8e-83563d35c667",
-                                    "title": "HTTP"
+                                    "id": "ef944a49-9e37-433b-b4ac-d9cb9a4ed03d",
+                                    "title": "REST"
                                   }
                                 ]
                               },
-                              "id": "27a28126-49ad-45fc-8ef5-76dc1ddc8eed",
-                              "title": "Communication"
+                              "id": "df5e85fd-3613-402c-9b8e-83563d35c667",
+                              "title": "HTTP"
                             }
                           ]
                         },
-                        "id": "a6081940-f131-4fd5-a713-d4256bd36317",
-                        "title": "Protocols"
+                        "id": "27a28126-49ad-45fc-8ef5-76dc1ddc8eed",
+                        "title": "Communication"
                       }
                     ]
                   },
-                  "id": "9b608165-8501-4adf-b52c-9a3037faaa85",
-                  "title": "Team"
+                  "id": "a6081940-f131-4fd5-a713-d4256bd36317",
+                  "title": "Protocols"
                 },
                 {
                   "children": {
@@ -367,7 +363,7 @@
                         },
                         "id": "61976a3a-33fc-4797-bdec-ae66e6a09842",
                         "style": {
-                          "id": "0dc31b18-d8ec-472b-87b6-3b4130b67f34",
+                          "id": "0011be49-2324-4e7f-97d9-5a8c37d4686b",
                           "properties": {
                             "fill-pattern": "solid"
                           }
@@ -384,36 +380,32 @@
                   "title": "Algorithms"
                 },
                 {
+                  "id": "a70db734-8393-4631-af8b-2e2d1b906c49",
+                  "title": "Data structures"
+                },
+                {
                   "children": {
                     "attached": [
                       {
                         "children": {
                           "attached": [
                             {
-                              "children": {
-                                "attached": [
-                                  {
-                                    "id": "72e07a11-2aaf-41a0-a072-58ff33442354",
-                                    "title": "Deployment strategies"
-                                  }
-                                ]
-                              },
-                              "id": "a84fb63f-6904-4597-a7e5-6fd31e49977d",
-                              "title": "Deployment"
-                            },
-                            {
-                              "id": "5639e2bd-2d33-47d0-936d-db74bbf57ec1",
-                              "title": "Integration"
+                              "id": "72e07a11-2aaf-41a0-a072-58ff33442354",
+                              "title": "Deployment strategies"
                             }
                           ]
                         },
-                        "id": "3ed6a09f-f0f9-450e-82ff-2fbe42c30e98",
-                        "title": "Continuous Integration / Continuous Deployment (CI/CD) "
+                        "id": "a84fb63f-6904-4597-a7e5-6fd31e49977d",
+                        "title": "Deployment"
+                      },
+                      {
+                        "id": "5639e2bd-2d33-47d0-936d-db74bbf57ec1",
+                        "title": "Integration"
                       }
                     ]
                   },
-                  "id": "a70db734-8393-4631-af8b-2e2d1b906c49",
-                  "title": "Data structures"
+                  "id": "3ed6a09f-f0f9-450e-82ff-2fbe42c30e98",
+                  "title": "Continuous Integration / Continuous Deployment (CI/CD) "
                 }
               ]
             },
@@ -465,7 +457,7 @@
                         },
                         "id": "4c520fc7-31b2-477a-94f8-396fe570bb5a",
                         "style": {
-                          "id": "1dac4756-a162-4924-8863-9741b9aa9bad",
+                          "id": "bb0183cc-313b-45df-8b05-7d7af7ca29f6",
                           "properties": {
                             "fill-pattern": "solid"
                           }
@@ -559,7 +551,7 @@
                         },
                         "id": "9bb20883-de63-46b5-9602-147b75197f1a",
                         "style": {
-                          "id": "de2e3ac9-6119-432b-863d-b8bd68698c41",
+                          "id": "9adc6e46-5b79-48dd-a35c-20fea607e509",
                           "properties": {
                             "fill-pattern": "solid"
                           }
@@ -581,7 +573,7 @@
                         },
                         "id": "2b391697-f55a-486c-95b7-adf892783d6d",
                         "style": {
-                          "id": "c3080934-1741-48e8-a891-9c22a6d6a062",
+                          "id": "3b0fd4ab-2023-4b21-bf92-41328084f6c3",
                           "properties": {
                             "fill-pattern": "solid"
                           }
@@ -603,7 +595,7 @@
                         },
                         "id": "cef4e8c1-cd24-4d9a-aef0-ddc31e943740",
                         "style": {
-                          "id": "4d085e7c-6bf8-4a31-8e6a-0aeaff7905f6",
+                          "id": "84f34b07-7e50-4f0a-9b1a-ff699f911181",
                           "properties": {
                             "fill-pattern": "solid"
                           }
@@ -621,7 +613,7 @@
                         },
                         "id": "226fcbf9-d90a-476d-b2c0-24dc366e9826",
                         "style": {
-                          "id": "ad554235-2032-4ce0-a067-4455c1680dc2",
+                          "id": "8c57b4e8-f664-44a7-aae6-a5f8cf1d3ed0",
                           "properties": {
                             "fill-pattern": "solid"
                           }
@@ -809,14 +801,14 @@
       "title": "Everything"
     },
     "style": {
-      "id": "0ec72655-5478-4d16-af34-6b86c337c32f",
+      "id": "c6c3a87a-7c18-474c-b967-5d4b81930901",
       "properties": {
         "multi-line-colors": "none"
       }
     },
     "theme": {
       "boundary": {
-        "id": "a7e2570d-808e-4a31-9d5a-ba2d874bdb1d",
+        "id": "8368cd94-c28a-4c5a-8a61-aa75268aa165",
         "properties": {
           "fill-pattern": "solid",
           "fo:color": "inherited",
@@ -835,7 +827,7 @@
         }
       },
       "calloutTopic": {
-        "id": "9ff09cd6-b907-4e13-a725-9e754a275e0e",
+        "id": "5b8dd001-fb6c-42b2-9eac-eca1f22604c4",
         "properties": {
           "alignment-by-level": "inherited",
           "arrow-end-class": "inherited",
@@ -860,7 +852,7 @@
         }
       },
       "centralTopic": {
-        "id": "8178f2bb-d16f-4682-868f-9e9f6b4b4330",
+        "id": "4a89a4aa-85be-4b80-b3cf-bed5c88e50ac",
         "properties": {
           "alignment-by-level": "inherited",
           "arrow-end-class": "org.xmind.arrowShape.none",
@@ -886,14 +878,14 @@
       },
       "colorThemeId": "Rainforest-#ffffff-MULTI_LINE_COLORS",
       "expiredTopic": {
-        "id": "3e8527f5-745c-4658-bd6f-5e35449cf136",
+        "id": "9902fad4-a4a8-4272-ba03-88d72b6d016f",
         "properties": {
           "fill-pattern": "none",
           "fo:text-decoration": "line-through"
         }
       },
       "floatingTopic": {
-        "id": "78db0fbc-7109-4b87-a073-975860b2304f",
+        "id": "fbcf92fb-3591-48b8-b105-e5735d522b3b",
         "properties": {
           "alignment-by-level": "inherited",
           "arrow-end-class": "org.xmind.arrowShape.none",
@@ -918,7 +910,7 @@
         }
       },
       "importantTopic": {
-        "id": "a97806d4-04f6-44ca-8794-61089f174ed9",
+        "id": "1815c9c3-9d0c-4949-9427-7a2d51935b33",
         "properties": {
           "border-line-color": "#6769d8ff",
           "border-line-width": "0",
@@ -928,7 +920,7 @@
         }
       },
       "level3": {
-        "id": "15d4c1c3-569d-42b7-b326-e29690cf1d80",
+        "id": "14d8ba83-0fc7-4e3a-b664-cd2a1cf88a93",
         "properties": {
           "alignment-by-level": "inherited",
           "arrow-end-class": "inherited",
@@ -949,7 +941,7 @@
         }
       },
       "mainTopic": {
-        "id": "53189303-d055-47e3-a7e9-c4e80d8939cc",
+        "id": "4d5c054a-ae9e-452e-82a6-c77a3f8db918",
         "properties": {
           "alignment-by-level": "inherited",
           "arrow-end-class": "inherited",
@@ -974,7 +966,7 @@
         }
       },
       "map": {
-        "id": "2b529dd5-565d-4054-8e52-5c1f8fd110d3",
+        "id": "935e1ea5-af9b-46f1-9c8e-82a8d0659093",
         "properties": {
           "color-list": "#ffffff #c4fff9 #9ceaef #68d8d6 #06AFA9 #046562",
           "line-tapered": "none",
@@ -983,7 +975,7 @@
         }
       },
       "minorTopic": {
-        "id": "88cd0be1-03f7-4833-bad1-a4b9ccb3ab4b",
+        "id": "eab3e367-e703-445e-92bd-2ff3845da7be",
         "properties": {
           "border-line-color": "#ba67d7ff",
           "border-line-width": "0",
@@ -993,7 +985,7 @@
         }
       },
       "relationship": {
-        "id": "9b9f1a0b-6abd-4a5c-9b69-6c17317ef1de",
+        "id": "e8cf5312-535a-4e55-9af8-b2ebd9f1790e",
         "properties": {
           "arrow-begin-class": "org.xmind.arrowShape.none",
           "arrow-end-class": "org.xmind.arrowShape.triangle",
@@ -1013,7 +1005,7 @@
       },
       "skeletonThemeId": "8f137afe-a0f3-4f25-b56a-cfd05993ef4b",
       "subTopic": {
-        "id": "95b05105-9917-450b-83fc-df970664c99d",
+        "id": "0f382dff-d99c-40b5-b923-73208c2be05e",
         "properties": {
           "alignment-by-level": "inherited",
           "arrow-end-class": "inherited",
@@ -1038,7 +1030,7 @@
         }
       },
       "summary": {
-        "id": "5e4c30cc-961c-4075-a891-21e4ba1d5bee",
+        "id": "95a01db1-e4e1-442e-81c3-9996ba49560f",
         "properties": {
           "line-color": "#046562",
           "line-pattern": "solid",
@@ -1047,7 +1039,7 @@
         }
       },
       "summaryTopic": {
-        "id": "a3944b5a-d242-4076-87db-24963b0822eb",
+        "id": "624f071c-c936-4439-a519-95928ae4451a",
         "properties": {
           "alignment-by-level": "inherited",
           "arrow-end-class": "inherited",
@@ -1072,7 +1064,7 @@
         }
       },
       "zone": {
-        "id": "482f3763-e42b-4db1-863b-c3302f1c0098",
+        "id": "2d3f910a-fe8b-4797-9b08-9244085b81eb",
         "properties": {
           "border-line-color": "#046562",
           "fo:color": "inherited",
