@@ -15,7 +15,7 @@ for file in $FILES; do
 
   # Extract content.json from xmind archive
   unzip -p "$file" content.json 2>/dev/null \
-    | jq 'walk(if type == "object" then (del(.controlPoints, .lineEndPoints, .id, .revisionId, .theme) | if has("attached") then .attached else . end) else . end)' \
+    | jq 'walk(if type == "object" then (del(.controlPoints, .lineEndPoints, .id, .revisionId, .theme, .position) | if has("attached") then .attached else . end) else . end)' \
     | jq . \
     > "$json_file"
 
