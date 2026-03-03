@@ -243,119 +243,115 @@
                         }
                       },
                       {
-                        "title": "AWS",
+                        "title": "AWS"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Data storage",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Databases",
                         "children": {
                           "attached": [
                             {
-                              "title": "Data storage",
+                              "title": "Relational (SQL)",
                               "children": {
                                 "attached": [
                                   {
-                                    "title": "Databases",
-                                    "children": {
-                                      "attached": [
-                                        {
-                                          "title": "Relational (SQL)",
-                                          "children": {
-                                            "attached": [
-                                              {
-                                                "title": "MySQL"
-                                              },
-                                              {
-                                                "title": "PostgreSQL"
-                                              },
-                                              {
-                                                "title": "Database schema"
-                                              }
-                                            ]
-                                          }
-                                        },
-                                        {
-                                          "title": "Non-relational (NoSQL)",
-                                          "children": {
-                                            "attached": [
-                                              {
-                                                "title": "MongoDB"
-                                              }
-                                            ]
-                                          }
-                                        },
-                                        {
-                                          "title": "Migrations",
-                                          "children": {
-                                            "attached": [
-                                              {
-                                                "title": "Liquibase"
-                                              },
-                                              {
-                                                "title": "Flyway"
-                                              }
-                                            ]
-                                          }
-                                        }
-                                      ]
-                                    },
-                                    "style": {
-                                      "properties": {
-                                        "fill-pattern": "solid"
-                                      }
-                                    }
+                                    "title": "MySQL"
                                   },
                                   {
-                                    "title": "Messaging",
-                                    "children": {
-                                      "attached": [
-                                        {
-                                          "title": "Apache Kafka"
-                                        },
-                                        {
-                                          "title": "RabbitMQ"
-                                        }
-                                      ]
-                                    },
-                                    "style": {
-                                      "properties": {
-                                        "fill-pattern": "solid"
-                                      }
-                                    }
+                                    "title": "PostgreSQL"
                                   },
                                   {
-                                    "title": "Caching",
-                                    "children": {
-                                      "attached": [
-                                        {
-                                          "title": "Redis"
-                                        },
-                                        {
-                                          "title": "etcd"
-                                        }
-                                      ]
-                                    },
-                                    "style": {
-                                      "properties": {
-                                        "fill-pattern": "solid"
-                                      }
-                                    }
+                                    "title": "Database schema"
+                                  }
+                                ]
+                              }
+                            },
+                            {
+                              "title": "Non-relational (NoSQL)",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "title": "MongoDB"
+                                  }
+                                ]
+                              }
+                            },
+                            {
+                              "title": "Migrations",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "title": "Liquibase"
                                   },
                                   {
-                                    "title": "Object storage",
-                                    "children": {
-                                      "attached": [
-                                        {
-                                          "title": "MinIO"
-                                        }
-                                      ]
-                                    },
-                                    "style": {
-                                      "properties": {
-                                        "fill-pattern": "solid"
-                                      }
-                                    }
+                                    "title": "Flyway"
                                   }
                                 ]
                               }
                             }
                           ]
+                        },
+                        "style": {
+                          "properties": {
+                            "fill-pattern": "solid"
+                          }
+                        }
+                      },
+                      {
+                        "title": "Messaging",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Apache Kafka"
+                            },
+                            {
+                              "title": "RabbitMQ"
+                            }
+                          ]
+                        },
+                        "style": {
+                          "properties": {
+                            "fill-pattern": "solid"
+                          }
+                        }
+                      },
+                      {
+                        "title": "Caching",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Redis"
+                            },
+                            {
+                              "title": "etcd"
+                            }
+                          ]
+                        },
+                        "style": {
+                          "properties": {
+                            "fill-pattern": "solid"
+                          }
+                        }
+                      },
+                      {
+                        "title": "Object storage",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "MinIO"
+                            }
+                          ]
+                        },
+                        "style": {
+                          "properties": {
+                            "fill-pattern": "solid"
+                          }
                         }
                       }
                     ]
