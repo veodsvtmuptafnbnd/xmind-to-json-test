@@ -1,1079 +1,856 @@
 [
   {
-    "arrangeableLayerOrder": [
-      "a81aaf27-912e-45dd-ae58-e1afe91a4a62"
-    ],
+    "revisionId": "812552ef-b595-4771-993f-631f29e7e9d9",
     "class": "sheet",
-    "extensions": [
-      {
-        "content": {
-          "centralTopic": "org.xmind.ui.map.clockwise",
-          "mainTopic": "org.xmind.ui.logic.right"
-        },
-        "provider": "org.xmind.ui.skeleton.structure.style"
-      }
-    ],
-    "id": "a34d7a6d-c43e-4e19-ac74-b42e8dadaa63",
-    "relationships": [
-      {
-        "controlPoints": {
-          "0": {
-            "x": -13.010034039526545,
-            "y": -16.078951379362934
-          },
-          "1": {
-            "x": -99.58616572676931,
-            "y": 5.977442463039097
-          }
-        },
-        "end1Id": "52beccc0-a53b-4039-94c0-b67f9fbcf337",
-        "end2Id": "cd8236ce-db77-41a6-9611-28fd8c70a3e7",
-        "id": "e184a68e-8a3c-46df-977e-2587bb96399c",
-        "style": {
-          "id": "629d888c-f9f9-4ab6-8b4f-38ae6a8a1472",
-          "properties": {
-            "fo:color": "#00A99DFF"
-          }
-        },
-        "title": "for"
-      },
-      {
-        "controlPoints": {
-          "0": {
-            "x": -69.87501905197382,
-            "y": 4.841436772849647
-          },
-          "1": {
-            "x": 1.98557130518725,
-            "y": 79.96392826296801
-          }
-        },
-        "end1Id": "25be57c4-f5a7-4a6a-8a36-5e612d67183b",
-        "end2Id": "a3fad254-51b8-4b78-91d7-a06765323ab3",
-        "id": "b4817fbd-715c-42f3-a6b4-e31b9e69443f",
-        "style": {
-          "id": "01407644-801e-46c7-b063-d8a6a26a2d6c",
-          "properties": {
-            "fo:color": "#00A99DFF"
-          }
-        },
-        "title": "includes"
-      },
-      {
-        "controlPoints": {
-          "0": {
-            "x": -15.76944571457608,
-            "y": 40.634354519128124
-          },
-          "1": {
-            "x": -3.003149926332412,
-            "y": 37.09363410049275
-          }
-        },
-        "end1Id": "25be57c4-f5a7-4a6a-8a36-5e612d67183b",
-        "end2Id": "97e37d19-6ff7-4748-a3f9-72bcef1b43b1",
-        "id": "88d8f5ab-fa18-4fb2-9d5c-7fd9c992e911",
-        "style": {
-          "id": "88b90204-2310-4f49-9e36-209214f1f3cf",
-          "properties": {
-            "fo:color": "#00A99DFF"
-          }
-        },
-        "title": "includes"
-      },
-      {
-        "controlPoints": {
-          "1": {
-            "x": -3.6848549509729764,
-            "y": 30.6415688665345
-          }
-        },
-        "end1Id": "25be57c4-f5a7-4a6a-8a36-5e612d67183b",
-        "end2Id": "fcab612c-bf11-4d40-8659-259d846260a3",
-        "id": "4b09dabf-c8a5-42ae-a323-7c287703df9c",
-        "style": {
-          "id": "a8929f32-5147-4178-ad6e-97058459eda8",
-          "properties": {
-            "fo:color": "#00A99DFF"
-          }
-        },
-        "title": "includes"
-      },
-      {
-        "controlPoints": {
-          "0": {
-            "x": 44.05042422394956,
-            "y": -21.723886551846817
-          }
-        },
-        "end1Id": "2e5d59ec-3b1e-4d07-8d94-55143b49cd16",
-        "end2Id": "638ea3ca-846a-46bb-928c-3f2aeaba413a",
-        "id": "f22f25a2-2fe8-4f83-adc7-949534c5d2b6",
-        "style": {
-          "id": "ff851755-d373-4c03-a727-ad1fb7c10a94",
-          "properties": {
-            "fo:color": "#00A99DFF"
-          }
-        },
-        "title": "for"
-      },
-      {
-        "controlPoints": {
-          "0": {
-            "x": 20.2728496672255,
-            "y": 114.52786668698877
-          },
-          "1": {
-            "x": 24,
-            "y": -197
-          }
-        },
-        "end1Id": "ac12be08-475f-49cf-b6db-c70cfb96d7a6",
-        "end2Id": "3ed6a09f-f0f9-450e-82ff-2fbe42c30e98",
-        "id": "4747aead-49bc-413f-abfd-d137e8ee817c",
-        "style": {
-          "id": "b1a247f3-62e4-475f-a5b0-1967d28f58a7",
-          "properties": {
-            "fo:color": "#00A99DFF"
-          }
-        },
-        "title": "is"
-      },
-      {
-        "controlPoints": {
-          "0": {
-            "x": 144.47579129197766,
-            "y": 37.67540517197574
-          },
-          "1": {
-            "x": 255.27841284357055,
-            "y": -38.04577554234618
-          }
-        },
-        "end1Id": "41729cd9-3dc1-4a7b-a1e2-bc2e1dce9ce6",
-        "end2Id": "032343c4-c09c-4ffd-8ffa-47f81fbc8a80",
-        "id": "47a0bb07-f603-4366-abe6-b5a8aada95ee",
-        "style": {
-          "id": "b41f8e73-64ea-485d-bb99-5d5cecd03ae2",
-          "properties": {
-            "fo:color": "#00A99DFF"
-          }
-        },
-        "title": "comprise"
-      },
-      {
-        "controlPoints": {
-          "0": {
-            "x": -15.034050568975147,
-            "y": 26.334552659655515
-          },
-          "1": {
-            "x": 21.20543108265997,
-            "y": -32.63725041914347
-          }
-        },
-        "end1Id": "a96389fc-2201-413a-8f23-90e5b817afd5",
-        "end2Id": "6a63f2b5-9cb2-4f4c-9062-f5b85d73da27",
-        "id": "d93cc967-87ef-44f2-a5ee-a70a82becbe5",
-        "lineEndPoints": {
-          "0": {
-            "x": -32.948266859461285,
-            "y": 14
-          },
-          "1": {
-            "x": 25.45841539046637,
-            "y": -14
-          }
-        },
-        "style": {
-          "id": "95761d75-518c-4028-9e97-4725b8b37962",
-          "properties": {
-            "fo:color": "#00A99DFF"
-          }
-        },
-        "title": "comprise"
-      },
-      {
-        "controlPoints": {
-          "0": {
-            "x": -141.04925570289083,
-            "y": 124.8655692729767
-          },
-          "1": {
-            "x": -164.42958390489252,
-            "y": -30.34715236498505
-          }
-        },
-        "end1Id": "4e9b8121-b696-41ba-885f-cee9c2393630",
-        "end2Id": "52f38871-ab2d-46f0-98ad-e158dc87ed9d",
-        "id": "920c3cf6-4c5b-4db1-bb06-6310b14dd949",
-        "lineEndPoints": {
-          "0": {
-            "x": -79.0111725336597,
-            "y": 13.857476600799146
-          },
-          "1": {
-            "x": -117.04541025648837,
-            "y": -8.664896363168316
-          }
-        },
-        "style": {
-          "id": "bde3fe8f-c1ee-48b4-963e-54573908f094",
-          "properties": {
-            "fo:color": "#00A99DFF"
-          }
-        },
-        "title": "comprise"
-      }
-    ],
-    "revisionId": "bd60a8f9-b515-4aa7-9230-acfdced248a9",
     "rootTopic": {
+      "class": "topic",
+      "title": "Everything",
+      "structureClass": "org.xmind.ui.map.unbalanced",
+      "extensions": [
+        {
+          "provider": "org.xmind.ui.map.unbalanced",
+          "content": [
+            {
+              "name": "right-number",
+              "content": "1"
+            }
+          ]
+        }
+      ],
       "children": {
         "attached": [
           {
+            "title": "Concepts",
             "children": {
               "attached": [
                 {
-                  "id": "9b608165-8501-4adf-b52c-9a3037faaa85",
-                  "title": "Team"
-                },
-                {
+                  "title": "Team",
                   "children": {
                     "attached": [
                       {
+                        "title": "Protocols",
                         "children": {
                           "attached": [
                             {
-                              "id": "94bea004-332b-4516-a5b2-9ecd6a572060",
-                              "title": "OAuth2"
-                            }
-                          ]
-                        },
-                        "id": "08164afa-4034-4a7c-891d-65d44d0071de",
-                        "title": "Security"
-                      },
-                      {
-                        "children": {
-                          "attached": [
-                            {
+                              "title": "Security",
                               "children": {
                                 "attached": [
                                   {
-                                    "id": "194b82cc-c8a8-4909-b47a-4c36acf0876e",
-                                    "title": "GraphQL"
-                                  },
-                                  {
-                                    "id": "ef944a49-9e37-433b-b4ac-d9cb9a4ed03d",
-                                    "title": "REST"
+                                    "title": "OAuth2"
                                   }
                                 ]
-                              },
-                              "id": "df5e85fd-3613-402c-9b8e-83563d35c667",
-                              "title": "HTTP"
+                              }
+                            },
+                            {
+                              "title": "Communication",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "title": "HTTP",
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "title": "GraphQL"
+                                        },
+                                        {
+                                          "title": "REST"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                ]
+                              }
                             }
                           ]
-                        },
-                        "id": "27a28126-49ad-45fc-8ef5-76dc1ddc8eed",
-                        "title": "Communication"
+                        }
                       }
                     ]
-                  },
-                  "id": "a6081940-f131-4fd5-a713-d4256bd36317",
-                  "title": "Protocols"
+                  }
                 },
                 {
+                  "title": "Patterns",
                   "children": {
                     "attached": [
                       {
+                        "title": "Service-oriented patterns",
                         "children": {
                           "attached": [
                             {
-                              "id": "a1ace7e5-feed-45d9-9ad6-b8acf4f629f3",
                               "title": "API Gateway"
                             },
                             {
-                              "id": "eecdd93d-b208-4d39-abdb-e016fce07f0c",
                               "title": "Service Discovery"
                             }
                           ]
-                        },
-                        "id": "4e9b8121-b696-41ba-885f-cee9c2393630",
-                        "title": "Service-oriented patterns"
+                        }
                       },
                       {
+                        "title": "Event-driven patterns",
                         "children": {
                           "attached": [
                             {
-                              "id": "eeb3e06a-ed7c-4d0b-8121-7fb995a707da",
                               "title": "CQRS"
                             },
                             {
-                              "id": "fee2bf7e-e39a-4830-9ea5-a527ce42ea3c",
                               "title": "Event sourcing"
                             }
                           ]
-                        },
-                        "id": "41729cd9-3dc1-4a7b-a1e2-bc2e1dce9ce6",
-                        "title": "Event-driven patterns"
+                        }
                       },
                       {
+                        "title": "Microservice patterns",
                         "children": {
                           "attached": [
                             {
-                              "id": "643c90a9-eb0f-44b8-8094-6fd5f9b6c369",
                               "title": "Saga"
                             }
                           ]
-                        },
-                        "id": "a96389fc-2201-413a-8f23-90e5b817afd5",
-                        "title": "Microservice patterns"
+                        }
                       }
                     ]
-                  },
-                  "id": "c19e680e-cdb6-4426-b1b2-29e91749a8bb",
-                  "title": "Patterns"
+                  }
                 },
                 {
+                  "title": "Architectures",
                   "children": {
                     "attached": [
                       {
-                        "id": "6a63f2b5-9cb2-4f4c-9062-f5b85d73da27",
                         "title": "Microservice-based architecture"
                       },
                       {
-                        "id": "52f38871-ab2d-46f0-98ad-e158dc87ed9d",
                         "title": "Service-oriented architecture (SOA)"
                       },
                       {
-                        "id": "032343c4-c09c-4ffd-8ffa-47f81fbc8a80",
                         "title": "Event-driven architecture (EDA)"
                       },
                       {
-                        "id": "41c881be-b267-4128-ab55-ad1e5a70d28a",
                         "title": "Monolithic architecture"
                       },
                       {
+                        "title": "Migration",
                         "children": {
                           "attached": [
                             {
-                              "id": "4f51e5bc-5fd3-46fb-a201-5c54a1f83c18",
                               "title": "Monolith to microservice"
                             }
                           ]
                         },
-                        "id": "61976a3a-33fc-4797-bdec-ae66e6a09842",
                         "style": {
-                          "id": "0011be49-2324-4e7f-97d9-5a8c37d4686b",
                           "properties": {
                             "fill-pattern": "solid"
                           }
-                        },
-                        "title": "Migration"
+                        }
                       }
                     ]
-                  },
-                  "id": "24a9462a-064b-4480-939c-5e3a3f0940c1",
-                  "title": "Architectures"
+                  }
                 },
                 {
-                  "id": "f2e07145-8ceb-43d5-9e3c-af8fe32a538e",
                   "title": "Algorithms"
                 },
                 {
-                  "id": "a70db734-8393-4631-af8b-2e2d1b906c49",
-                  "title": "Data structures"
-                },
-                {
+                  "title": "Data structures",
                   "children": {
                     "attached": [
                       {
+                        "title": "Continuous Integration / Continuous Deployment (CI/CD) ",
                         "children": {
                           "attached": [
                             {
-                              "id": "72e07a11-2aaf-41a0-a072-58ff33442354",
-                              "title": "Deployment strategies"
+                              "title": "Deployment",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "title": "Deployment strategies"
+                                  }
+                                ]
+                              }
+                            },
+                            {
+                              "title": "Integration"
                             }
                           ]
-                        },
-                        "id": "a84fb63f-6904-4597-a7e5-6fd31e49977d",
-                        "title": "Deployment"
-                      },
-                      {
-                        "id": "5639e2bd-2d33-47d0-936d-db74bbf57ec1",
-                        "title": "Integration"
+                        }
                       }
                     ]
-                  },
-                  "id": "3ed6a09f-f0f9-450e-82ff-2fbe42c30e98",
-                  "title": "Continuous Integration / Continuous Deployment (CI/CD) "
+                  }
                 }
               ]
-            },
-            "id": "bbfa7faf-d4a8-4578-a80d-09dae274178d",
-            "title": "Concepts"
+            }
           },
           {
-            "children": {
-              "attached": [
-                {
-                  "children": {
-                    "attached": [
-                      {
-                        "id": "638ea3ca-846a-46bb-928c-3f2aeaba413a",
-                        "title": "JavaScript"
-                      },
-                      {
-                        "id": "cd8236ce-db77-41a6-9611-28fd8c70a3e7",
-                        "title": "Java"
-                      },
-                      {
-                        "children": {
-                          "attached": [
-                            {
-                              "children": {
-                                "attached": [
-                                  {
-                                    "id": "633a768f-a95f-4859-b0b3-546e67e6860f",
-                                    "title": "Spring Boot"
-                                  },
-                                  {
-                                    "id": "77155035-4dfa-45cb-83f8-d1b98dd43f8e",
-                                    "title": "Spring Security"
-                                  },
-                                  {
-                                    "id": "2519ad12-8f03-4f00-9cf3-9cb723a60794",
-                                    "title": "Spring Data JPA"
-                                  }
-                                ]
-                              },
-                              "id": "52beccc0-a53b-4039-94c0-b67f9fbcf337",
-                              "title": "Spring Framework"
-                            },
-                            {
-                              "id": "2e5d59ec-3b1e-4d07-8d94-55143b49cd16",
-                              "title": "Vue.js"
-                            }
-                          ]
-                        },
-                        "id": "4c520fc7-31b2-477a-94f8-396fe570bb5a",
-                        "style": {
-                          "id": "bb0183cc-313b-45df-8b05-7d7af7ca29f6",
-                          "properties": {
-                            "fill-pattern": "solid"
-                          }
-                        },
-                        "title": "Frameworks"
-                      }
-                    ]
-                  },
-                  "id": "cf4d67ec-77b1-4175-8df2-7401caf0ce31",
-                  "title": "Programming languages"
-                },
-                {
-                  "children": {
-                    "attached": [
-                      {
-                        "children": {
-                          "attached": [
-                            {
-                              "id": "ac12be08-475f-49cf-b6db-c70cfb96d7a6",
-                              "title": "Azure DevOps"
-                            }
-                          ]
-                        },
-                        "id": "0ffeb4c8-a321-4c59-8d1d-5b13eb6068c0",
-                        "title": "Azure"
-                      },
-                      {
-                        "id": "23e2e371-da44-4839-95e4-d3f5a3e4e51e",
-                        "title": "AWS"
-                      }
-                    ]
-                  },
-                  "id": "12626d3d-28af-41dd-951f-951c3f7b2c86",
-                  "title": "Cloud"
-                },
-                {
-                  "children": {
-                    "attached": [
-                      {
-                        "children": {
-                          "attached": [
-                            {
-                              "children": {
-                                "attached": [
-                                  {
-                                    "id": "52bc41ba-2f84-4743-b446-ebfbae1ccf83",
-                                    "title": "MySQL"
-                                  },
-                                  {
-                                    "id": "d73233f5-5166-4ddf-93a1-ee3fc030d2c1",
-                                    "title": "PostgreSQL"
-                                  },
-                                  {
-                                    "id": "43b4cb0f-d794-4116-bcaa-5c0ae47d2c70",
-                                    "title": "Database schema"
-                                  }
-                                ]
-                              },
-                              "id": "53dd00b1-54cc-4971-ab81-a71b1a5ddf48",
-                              "title": "Relational (SQL)"
-                            },
-                            {
-                              "children": {
-                                "attached": [
-                                  {
-                                    "id": "ba201405-a9ca-40c5-94bf-3e12a2e4d16c",
-                                    "title": "MongoDB"
-                                  }
-                                ]
-                              },
-                              "id": "d63b808c-a0ea-4646-a406-c8bf97ecb73d",
-                              "title": "Non-relational (NoSQL)"
-                            },
-                            {
-                              "children": {
-                                "attached": [
-                                  {
-                                    "id": "f9584c30-c752-45c9-ba0d-56a82025bbce",
-                                    "title": "Liquibase"
-                                  },
-                                  {
-                                    "id": "ac7e8d7e-f59a-4ca5-a4d5-d7219db9d789",
-                                    "title": "Flyway"
-                                  }
-                                ]
-                              },
-                              "id": "2595b87a-53db-4998-857b-01a0a2cd03e9",
-                              "title": "Migrations"
-                            }
-                          ]
-                        },
-                        "id": "9bb20883-de63-46b5-9602-147b75197f1a",
-                        "style": {
-                          "id": "9adc6e46-5b79-48dd-a35c-20fea607e509",
-                          "properties": {
-                            "fill-pattern": "solid"
-                          }
-                        },
-                        "title": "Databases"
-                      },
-                      {
-                        "children": {
-                          "attached": [
-                            {
-                              "id": "b03b951e-32b3-4e76-a873-867c6368991c",
-                              "title": "Apache Kafka"
-                            },
-                            {
-                              "id": "68eca7ad-5dcd-4151-834f-7ec2679e3ba2",
-                              "title": "RabbitMQ"
-                            }
-                          ]
-                        },
-                        "id": "2b391697-f55a-486c-95b7-adf892783d6d",
-                        "style": {
-                          "id": "3b0fd4ab-2023-4b21-bf92-41328084f6c3",
-                          "properties": {
-                            "fill-pattern": "solid"
-                          }
-                        },
-                        "title": "Messaging"
-                      },
-                      {
-                        "children": {
-                          "attached": [
-                            {
-                              "id": "2447cce6-f4fe-4c27-9067-724b4db34914",
-                              "title": "Redis"
-                            },
-                            {
-                              "id": "a91525dd-e8d3-4ef3-acbd-1ede686d3e87",
-                              "title": "etcd"
-                            }
-                          ]
-                        },
-                        "id": "cef4e8c1-cd24-4d9a-aef0-ddc31e943740",
-                        "style": {
-                          "id": "84f34b07-7e50-4f0a-9b1a-ff699f911181",
-                          "properties": {
-                            "fill-pattern": "solid"
-                          }
-                        },
-                        "title": "Caching"
-                      },
-                      {
-                        "children": {
-                          "attached": [
-                            {
-                              "id": "5a480c89-823c-41d7-8f82-4ace5a4d2bd4",
-                              "title": "MinIO"
-                            }
-                          ]
-                        },
-                        "id": "226fcbf9-d90a-476d-b2c0-24dc366e9826",
-                        "style": {
-                          "id": "8c57b4e8-f664-44a7-aae6-a5f8cf1d3ed0",
-                          "properties": {
-                            "fill-pattern": "solid"
-                          }
-                        },
-                        "title": "Object storage"
-                      }
-                    ]
-                  },
-                  "id": "46e72ff3-bb42-42e8-9484-8b9ac5d766ec",
-                  "title": "Data storage"
-                },
-                {
-                  "children": {
-                    "attached": [
-                      {
-                        "children": {
-                          "attached": [
-                            {
-                              "id": "fcab612c-bf11-4d40-8659-259d846260a3",
-                              "title": "Logstash"
-                            },
-                            {
-                              "id": "97e37d19-6ff7-4748-a3f9-72bcef1b43b1",
-                              "title": "ElasticSearch"
-                            }
-                          ]
-                        },
-                        "id": "c0db5f83-6a9b-445f-a908-c359d5c9b8ef",
-                        "title": "Logging"
-                      },
-                      {
-                        "id": "33859719-4929-4d8f-afff-b8457d74e834",
-                        "title": "Tracing"
-                      },
-                      {
-                        "children": {
-                          "attached": [
-                            {
-                              "id": "a3fad254-51b8-4b78-91d7-a06765323ab3",
-                              "title": "Kibana"
-                            }
-                          ]
-                        },
-                        "id": "506ea1c2-a411-4928-aa0b-c8688792db4d",
-                        "title": "Monitoring"
-                      },
-                      {
-                        "id": "25be57c4-f5a7-4a6a-8a36-5e612d67183b",
-                        "title": "ELK stack"
-                      }
-                    ]
-                  },
-                  "id": "9047e9a4-11eb-4142-a944-2e4563e13d28",
-                  "title": "Observability"
-                },
-                {
-                  "children": {
-                    "attached": [
-                      {
-                        "id": "e2bc1991-259e-4c3e-9b84-b927814bfd8d",
-                        "title": "Git"
-                      },
-                      {
-                        "id": "90859b20-757e-4741-9939-30211718ede9",
-                        "title": "Subversion (SVN)"
-                      },
-                      {
-                        "id": "f7d9c619-684a-4b66-9006-be684348a3cc",
-                        "title": "Mercurial"
-                      }
-                    ]
-                  },
-                  "id": "337f27e8-1699-4cfc-9439-f8bc942712a8",
-                  "title": "Version control"
-                },
-                {
-                  "children": {
-                    "attached": [
-                      {
-                        "id": "6ad6c567-15b8-4427-9399-83e05eb6d209",
-                        "title": "Unit testing"
-                      },
-                      {
-                        "id": "eed1eca9-1ac5-4573-8c2e-1ec05ea88208",
-                        "title": "Integration testing"
-                      },
-                      {
-                        "id": "43997d81-5f6e-4982-a6f9-a8b709aad5c3",
-                        "title": "Performance testing"
-                      },
-                      {
-                        "id": "35d02b5e-aaac-4d24-a431-61d2f4b7f515",
-                        "title": "End-to-End (E2E) testing"
-                      }
-                    ]
-                  },
-                  "id": "15973903-8d05-441b-b3b3-c29888ddb48a",
-                  "title": "Testing"
-                },
-                {
-                  "children": {
-                    "attached": [
-                      {
-                        "id": "f432e746-e458-423e-9905-8af3c3c71ff2",
-                        "title": "Keycloak"
-                      }
-                    ]
-                  },
-                  "id": "22739fd3-ec30-4ef2-ae16-e52fe8c517d4",
-                  "title": "Authentication"
-                },
-                {
-                  "children": {
-                    "attached": [
-                      {
-                        "children": {
-                          "attached": [
-                            {
-                              "id": "e4ea9d8e-468a-41c6-b4d8-4685641c2b24",
-                              "title": "Docker Compose"
-                            }
-                          ]
-                        },
-                        "id": "86b3c77e-63ff-4e95-98d0-19c93c3bc825",
-                        "title": "Docker"
-                      },
-                      {
-                        "children": {
-                          "attached": [
-                            {
-                              "id": "332d29c7-c37e-454e-855a-e94eca99fbcc",
-                              "title": "Helm"
-                            }
-                          ]
-                        },
-                        "id": "7db658f8-ed43-4ef6-aa3a-a18c4c674f37",
-                        "title": "Kubernetes (k8s)"
-                      }
-                    ]
-                  },
-                  "id": "3e7bcb67-39bb-4651-8898-1a4c49e889b4",
-                  "title": "Containerization"
-                },
-                {
-                  "children": {
-                    "attached": [
-                      {
-                        "id": "e55696d1-c0e3-43b2-bb8a-a33c090acc8d",
-                        "title": "Dell Boomi"
-                      },
-                      {
-                        "id": "1d950182-127a-4cdf-8b91-d85b3fc838c8",
-                        "title": "Debezium"
-                      }
-                    ]
-                  },
-                  "id": "687799ba-f247-4f49-bbc2-32cc5c2fe574",
-                  "title": "Integration"
-                }
-              ]
-            },
-            "id": "be8cc957-e2f9-4725-9786-b2af0a058731",
+            "title": "Technologies",
             "position": {
               "x": -242,
               "y": -6
             },
-            "title": "Technologies"
+            "children": {
+              "attached": [
+                {
+                  "title": "Programming languages",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "JavaScript"
+                      },
+                      {
+                        "title": "Java"
+                      },
+                      {
+                        "title": "Frameworks",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Spring Framework",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "title": "Spring Boot"
+                                  },
+                                  {
+                                    "title": "Spring Security"
+                                  },
+                                  {
+                                    "title": "Spring Data JPA"
+                                  }
+                                ]
+                              }
+                            },
+                            {
+                              "title": "Vue.js"
+                            }
+                          ]
+                        },
+                        "style": {
+                          "properties": {
+                            "fill-pattern": "solid"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Cloud",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Azure",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Azure DevOps"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "AWS",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Data storage",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "title": "Databases",
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "title": "Relational (SQL)",
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "title": "MySQL"
+                                              },
+                                              {
+                                                "title": "PostgreSQL"
+                                              },
+                                              {
+                                                "title": "Database schema"
+                                              }
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "title": "Non-relational (NoSQL)",
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "title": "MongoDB"
+                                              }
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "title": "Migrations",
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "title": "Liquibase"
+                                              },
+                                              {
+                                                "title": "Flyway"
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    "style": {
+                                      "properties": {
+                                        "fill-pattern": "solid"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "title": "Messaging",
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "title": "Apache Kafka"
+                                        },
+                                        {
+                                          "title": "RabbitMQ"
+                                        }
+                                      ]
+                                    },
+                                    "style": {
+                                      "properties": {
+                                        "fill-pattern": "solid"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "title": "Caching",
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "title": "Redis"
+                                        },
+                                        {
+                                          "title": "etcd"
+                                        }
+                                      ]
+                                    },
+                                    "style": {
+                                      "properties": {
+                                        "fill-pattern": "solid"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "title": "Object storage",
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "title": "MinIO"
+                                        }
+                                      ]
+                                    },
+                                    "style": {
+                                      "properties": {
+                                        "fill-pattern": "solid"
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Observability",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Logging",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Logstash"
+                            },
+                            {
+                              "title": "ElasticSearch"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Tracing"
+                      },
+                      {
+                        "title": "Monitoring",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Kibana"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "ELK stack"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Version control",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Git"
+                      },
+                      {
+                        "title": "Subversion (SVN)"
+                      },
+                      {
+                        "title": "Mercurial"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Testing",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Unit testing"
+                      },
+                      {
+                        "title": "Integration testing"
+                      },
+                      {
+                        "title": "Performance testing"
+                      },
+                      {
+                        "title": "End-to-End (E2E) testing"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Authentication",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Keycloak"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Containerization",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Docker",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Docker Compose"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Kubernetes (k8s)",
+                        "children": {
+                          "attached": [
+                            {
+                              "title": "Helm"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Integration",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "Dell Boomi"
+                      },
+                      {
+                        "title": "Debezium"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
           }
         ]
-      },
-      "class": "topic",
-      "extensions": [
-        {
-          "content": [
-            {
-              "content": "1",
-              "name": "right-number"
-            }
-          ],
-          "provider": "org.xmind.ui.map.unbalanced"
-        }
-      ],
-      "id": "a81aaf27-912e-45dd-ae58-e1afe91a4a62",
-      "structureClass": "org.xmind.ui.map.unbalanced",
-      "title": "Everything"
+      }
     },
+    "relationships": [
+      {
+        "end1Id": "52beccc0-a53b-4039-94c0-b67f9fbcf337",
+        "end2Id": "cd8236ce-db77-41a6-9611-28fd8c70a3e7",
+        "title": "for",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "25be57c4-f5a7-4a6a-8a36-5e612d67183b",
+        "end2Id": "a3fad254-51b8-4b78-91d7-a06765323ab3",
+        "title": "includes",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "25be57c4-f5a7-4a6a-8a36-5e612d67183b",
+        "end2Id": "97e37d19-6ff7-4748-a3f9-72bcef1b43b1",
+        "title": "includes",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "25be57c4-f5a7-4a6a-8a36-5e612d67183b",
+        "end2Id": "fcab612c-bf11-4d40-8659-259d846260a3",
+        "title": "includes",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "2e5d59ec-3b1e-4d07-8d94-55143b49cd16",
+        "end2Id": "638ea3ca-846a-46bb-928c-3f2aeaba413a",
+        "title": "for",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "ac12be08-475f-49cf-b6db-c70cfb96d7a6",
+        "end2Id": "3ed6a09f-f0f9-450e-82ff-2fbe42c30e98",
+        "title": "is",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "41729cd9-3dc1-4a7b-a1e2-bc2e1dce9ce6",
+        "end2Id": "032343c4-c09c-4ffd-8ffa-47f81fbc8a80",
+        "title": "comprise",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "a96389fc-2201-413a-8f23-90e5b817afd5",
+        "end2Id": "6a63f2b5-9cb2-4f4c-9062-f5b85d73da27",
+        "title": "comprise",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      },
+      {
+        "end1Id": "4e9b8121-b696-41ba-885f-cee9c2393630",
+        "end2Id": "52f38871-ab2d-46f0-98ad-e158dc87ed9d",
+        "title": "comprise",
+        "style": {
+          "properties": {
+            "fo:color": "#00A99DFF"
+          }
+        }
+      }
+    ],
+    "title": "Mind Map",
+    "topicOverlapping": "overlap",
+    "arrangeableLayerOrder": [
+      "a81aaf27-912e-45dd-ae58-e1afe91a4a62"
+    ],
+    "zones": [],
+    "extensions": [
+      {
+        "provider": "org.xmind.ui.skeleton.structure.style",
+        "content": {
+          "centralTopic": "org.xmind.ui.map.clockwise",
+          "mainTopic": "org.xmind.ui.logic.right"
+        }
+      }
+    ],
     "style": {
-      "id": "c6c3a87a-7c18-474c-b967-5d4b81930901",
       "properties": {
         "multi-line-colors": "none"
       }
     },
     "theme": {
-      "boundary": {
-        "id": "8368cd94-c28a-4c5a-8a61-aa75268aa165",
+      "map": {
         "properties": {
-          "fill-pattern": "solid",
-          "fo:color": "inherited",
-          "fo:font-family": "NeverMind",
-          "fo:font-size": "14pt",
-          "fo:font-style": "normal",
-          "fo:font-weight": "400",
-          "fo:text-align": "center",
-          "fo:text-decoration": "none",
-          "fo:text-transform": "manual",
-          "line-color": "#046562",
-          "line-pattern": "dash",
-          "line-width": "2",
-          "shape-class": "org.xmind.boundaryShape.roundedRect",
-          "svg:fill": "#046562"
-        }
-      },
-      "calloutTopic": {
-        "id": "5b8dd001-fb6c-42b2-9eac-eca1f22604c4",
-        "properties": {
-          "alignment-by-level": "inherited",
-          "arrow-end-class": "inherited",
-          "border-line-color": "#06AFA9",
-          "border-line-pattern": "inherited",
-          "border-line-width": "inherited",
-          "fill-pattern": "solid",
-          "fo:color": "inherited",
-          "fo:font-family": "NeverMind",
-          "fo:font-size": "14pt",
-          "fo:font-style": "normal",
-          "fo:font-weight": "400",
-          "fo:text-align": "left",
-          "fo:text-decoration": "none",
-          "fo:text-transform": "manual",
-          "line-class": "org.xmind.branchConnection.roundedElbow",
-          "line-color": "inherited",
-          "line-pattern": "inherited",
-          "line-width": "inherited",
-          "shape-class": "org.xmind.topicShape.roundedRect",
-          "svg:fill": "#06AFA9"
+          "svg:fill": "#ffffff",
+          "multi-line-colors": "#9ceaef #68d8d6 #06AFA9",
+          "color-list": "#ffffff #c4fff9 #9ceaef #68d8d6 #06AFA9 #046562",
+          "line-tapered": "none"
         }
       },
       "centralTopic": {
-        "id": "4a89a4aa-85be-4b80-b3cf-bed5c88e50ac",
         "properties": {
-          "alignment-by-level": "inherited",
-          "arrow-end-class": "org.xmind.arrowShape.none",
-          "border-line-color": "inherited",
-          "border-line-pattern": "inherited",
-          "border-line-width": "0pt",
-          "fill-pattern": "none",
-          "fo:color": "inherited",
           "fo:font-family": "NeverMind",
           "fo:font-size": "30pt",
-          "fo:font-style": "normal",
           "fo:font-weight": "800",
-          "fo:text-align": "center",
-          "fo:text-decoration": "none",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
           "fo:text-transform": "manual",
-          "line-class": "org.xmind.branchConnection.curve",
+          "fo:text-decoration": "none",
+          "fo:text-align": "center",
+          "svg:fill": "#046562",
+          "fill-pattern": "none",
+          "line-width": "2pt",
           "line-color": "#046562",
           "line-pattern": "solid",
-          "line-width": "2pt",
+          "border-line-color": "inherited",
+          "border-line-width": "0pt",
+          "border-line-pattern": "inherited",
           "shape-class": "org.xmind.topicShape.roundedRect",
-          "svg:fill": "#046562"
-        }
-      },
-      "colorThemeId": "Rainforest-#ffffff-MULTI_LINE_COLORS",
-      "expiredTopic": {
-        "id": "9902fad4-a4a8-4272-ba03-88d72b6d016f",
-        "properties": {
-          "fill-pattern": "none",
-          "fo:text-decoration": "line-through"
-        }
-      },
-      "floatingTopic": {
-        "id": "fbcf92fb-3591-48b8-b105-e5735d522b3b",
-        "properties": {
-          "alignment-by-level": "inherited",
+          "line-class": "org.xmind.branchConnection.curve",
           "arrow-end-class": "org.xmind.arrowShape.none",
-          "border-line-color": "#9ceaef",
-          "border-line-pattern": "inherited",
-          "border-line-width": "0pt",
-          "fill-pattern": "solid",
-          "fo:color": "inherited",
-          "fo:font-family": "NeverMind",
-          "fo:font-size": "14pt",
-          "fo:font-style": "normal",
-          "fo:font-weight": "500",
-          "fo:text-align": "left",
-          "fo:text-decoration": "none",
-          "fo:text-transform": "manual",
-          "line-class": "org.xmind.branchConnection.roundedElbow",
-          "line-color": "inherited",
-          "line-pattern": "solid",
-          "line-width": "2pt",
-          "shape-class": "org.xmind.topicShape.roundedRect",
-          "svg:fill": "#9ceaef"
-        }
-      },
-      "importantTopic": {
-        "id": "1815c9c3-9d0c-4949-9427-7a2d51935b33",
-        "properties": {
-          "border-line-color": "#6769d8ff",
-          "border-line-width": "0",
-          "fill-pattern": "solid",
-          "fo:font-weight": "bold",
-          "svg:fill": "#6769d8ff"
-        }
-      },
-      "level3": {
-        "id": "14d8ba83-0fc7-4e3a-b664-cd2a1cf88a93",
-        "properties": {
-          "alignment-by-level": "inherited",
-          "arrow-end-class": "inherited",
-          "border-line-pattern": "inherited",
-          "border-line-width": "0pt",
-          "fill-pattern": "solid",
-          "fo:font-family": "NeverMind",
-          "fo:font-size": "14pt",
-          "fo:font-style": "normal",
-          "fo:font-weight": "400",
-          "fo:text-align": "left",
-          "fo:text-decoration": "none",
-          "fo:text-transform": "manual",
-          "line-class": "org.xmind.branchConnection.roundedElbow",
-          "line-pattern": "inherited",
-          "line-width": "2pt",
-          "shape-class": "org.xmind.topicShape.roundedRect"
+          "alignment-by-level": "inherited"
         }
       },
       "mainTopic": {
-        "id": "4d5c054a-ae9e-452e-82a6-c77a3f8db918",
         "properties": {
-          "alignment-by-level": "inherited",
-          "arrow-end-class": "inherited",
-          "border-line-color": "inherited",
-          "border-line-pattern": "inherited",
-          "border-line-width": "0pt",
-          "fill-pattern": "solid",
-          "fo:color": "inherited",
           "fo:font-family": "NeverMind",
           "fo:font-size": "18pt",
-          "fo:font-style": "normal",
           "fo:font-weight": "500",
-          "fo:text-align": "left",
-          "fo:text-decoration": "none",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
           "fo:text-transform": "manual",
-          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "fo:text-decoration": "none",
+          "fo:text-align": "left",
+          "svg:fill": "inherited",
+          "fill-pattern": "solid",
+          "line-width": "2pt",
           "line-color": "inherited",
           "line-pattern": "inherited",
-          "line-width": "2pt",
-          "shape-class": "org.xmind.topicShape.roundedRect",
-          "svg:fill": "inherited"
-        }
-      },
-      "map": {
-        "id": "935e1ea5-af9b-46f1-9c8e-82a8d0659093",
-        "properties": {
-          "color-list": "#ffffff #c4fff9 #9ceaef #68d8d6 #06AFA9 #046562",
-          "line-tapered": "none",
-          "multi-line-colors": "#9ceaef #68d8d6 #06AFA9",
-          "svg:fill": "#ffffff"
-        }
-      },
-      "minorTopic": {
-        "id": "eab3e367-e703-445e-92bd-2ff3845da7be",
-        "properties": {
-          "border-line-color": "#ba67d7ff",
-          "border-line-width": "0",
-          "fill-pattern": "solid",
-          "fo:font-weight": "bold",
-          "svg:fill": "#ba67d7ff"
-        }
-      },
-      "relationship": {
-        "id": "e8cf5312-535a-4e55-9af8-b2ebd9f1790e",
-        "properties": {
-          "arrow-begin-class": "org.xmind.arrowShape.none",
-          "arrow-end-class": "org.xmind.arrowShape.triangle",
-          "fo:color": "inherited",
-          "fo:font-family": "NeverMind",
-          "fo:font-size": "13pt",
-          "fo:font-style": "normal",
-          "fo:font-weight": "400",
-          "fo:text-align": "center",
-          "fo:text-decoration": "none",
-          "fo:text-transform": "manual",
-          "line-color": "#046562",
-          "line-pattern": "dash",
-          "line-width": "2",
-          "shape-class": "org.xmind.relationshipShape.curved"
-        }
-      },
-      "skeletonThemeId": "8f137afe-a0f3-4f25-b56a-cfd05993ef4b",
-      "subTopic": {
-        "id": "0f382dff-d99c-40b5-b923-73208c2be05e",
-        "properties": {
-          "alignment-by-level": "inherited",
-          "arrow-end-class": "inherited",
           "border-line-color": "inherited",
-          "border-line-pattern": "inherited",
           "border-line-width": "0pt",
-          "fill-pattern": "none",
-          "fo:color": "inherited",
+          "border-line-pattern": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "arrow-end-class": "inherited",
+          "alignment-by-level": "inherited"
+        }
+      },
+      "subTopic": {
+        "properties": {
           "fo:font-family": "NeverMind",
           "fo:font-size": "14pt",
-          "fo:font-style": "normal",
           "fo:font-weight": "400",
-          "fo:text-align": "left",
-          "fo:text-decoration": "none",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
           "fo:text-transform": "manual",
-          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "fo:text-decoration": "none",
+          "fo:text-align": "left",
+          "svg:fill": "inherited",
+          "fill-pattern": "none",
+          "line-width": "2pt",
           "line-color": "inherited",
           "line-pattern": "inherited",
-          "line-width": "2pt",
+          "border-line-color": "inherited",
+          "border-line-width": "0pt",
+          "border-line-pattern": "inherited",
           "shape-class": "org.xmind.topicShape.roundedRect",
-          "svg:fill": "inherited"
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "arrow-end-class": "inherited",
+          "alignment-by-level": "inherited"
         }
       },
-      "summary": {
-        "id": "95a01db1-e4e1-442e-81c3-9996ba49560f",
+      "floatingTopic": {
         "properties": {
-          "line-color": "#046562",
-          "line-pattern": "solid",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-weight": "500",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "left",
+          "svg:fill": "#9ceaef",
+          "fill-pattern": "solid",
           "line-width": "2pt",
-          "shape-class": "org.xmind.summaryShape.round"
+          "line-color": "inherited",
+          "line-pattern": "solid",
+          "border-line-color": "#9ceaef",
+          "border-line-width": "0pt",
+          "border-line-pattern": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "arrow-end-class": "org.xmind.arrowShape.none",
+          "alignment-by-level": "inherited"
         }
       },
       "summaryTopic": {
-        "id": "624f071c-c936-4439-a519-95928ae4451a",
         "properties": {
-          "alignment-by-level": "inherited",
-          "arrow-end-class": "inherited",
-          "border-line-color": "#06AFA9",
-          "border-line-pattern": "inherited",
-          "border-line-width": "inherited",
-          "fill-pattern": "none",
-          "fo:color": "inherited",
           "fo:font-family": "NeverMind",
           "fo:font-size": "14pt",
-          "fo:font-style": "normal",
           "fo:font-weight": "400",
-          "fo:text-align": "left",
-          "fo:text-decoration": "none",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
           "fo:text-transform": "manual",
-          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "fo:text-decoration": "none",
+          "fo:text-align": "left",
+          "svg:fill": "#06AFA9",
+          "fill-pattern": "none",
+          "line-width": "inherited",
           "line-color": "inherited",
           "line-pattern": "inherited",
-          "line-width": "inherited",
+          "border-line-color": "#06AFA9",
+          "border-line-width": "inherited",
+          "border-line-pattern": "inherited",
           "shape-class": "org.xmind.topicShape.roundedRect",
-          "svg:fill": "#06AFA9"
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "arrow-end-class": "inherited",
+          "alignment-by-level": "inherited"
+        }
+      },
+      "calloutTopic": {
+        "properties": {
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-weight": "400",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "left",
+          "svg:fill": "#06AFA9",
+          "fill-pattern": "solid",
+          "line-width": "inherited",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "border-line-color": "#06AFA9",
+          "border-line-width": "inherited",
+          "border-line-pattern": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "arrow-end-class": "inherited",
+          "alignment-by-level": "inherited"
+        }
+      },
+      "importantTopic": {
+        "properties": {
+          "fo:font-weight": "bold",
+          "svg:fill": "#6769d8ff",
+          "fill-pattern": "solid",
+          "border-line-color": "#6769d8ff",
+          "border-line-width": "0"
+        }
+      },
+      "minorTopic": {
+        "properties": {
+          "fo:font-weight": "bold",
+          "svg:fill": "#ba67d7ff",
+          "fill-pattern": "solid",
+          "border-line-color": "#ba67d7ff",
+          "border-line-width": "0"
+        }
+      },
+      "expiredTopic": {
+        "properties": {
+          "fo:text-decoration": "line-through",
+          "fill-pattern": "none"
+        }
+      },
+      "boundary": {
+        "properties": {
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-weight": "400",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "center",
+          "svg:fill": "#046562",
+          "fill-pattern": "solid",
+          "line-width": "2",
+          "line-color": "#046562",
+          "line-pattern": "dash",
+          "shape-class": "org.xmind.boundaryShape.roundedRect"
+        }
+      },
+      "summary": {
+        "properties": {
+          "line-width": "2pt",
+          "line-color": "#046562",
+          "line-pattern": "solid",
+          "shape-class": "org.xmind.summaryShape.round"
+        }
+      },
+      "relationship": {
+        "properties": {
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "13pt",
+          "fo:font-weight": "400",
+          "fo:font-style": "normal",
+          "fo:color": "inherited",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "center",
+          "line-width": "2",
+          "line-color": "#046562",
+          "line-pattern": "dash",
+          "shape-class": "org.xmind.relationshipShape.curved",
+          "arrow-begin-class": "org.xmind.arrowShape.none",
+          "arrow-end-class": "org.xmind.arrowShape.triangle"
+        }
+      },
+      "level3": {
+        "properties": {
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-weight": "400",
+          "fo:font-style": "normal",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "left",
+          "fill-pattern": "solid",
+          "line-width": "2pt",
+          "line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "border-line-pattern": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "arrow-end-class": "inherited",
+          "alignment-by-level": "inherited"
         }
       },
       "zone": {
-        "id": "2d3f910a-fe8b-4797-9b08-9244085b81eb",
         "properties": {
-          "border-line-color": "#046562",
           "fo:color": "inherited",
-          "svg:fill": "#04656233"
+          "svg:fill": "#04656233",
+          "border-line-color": "#046562"
         }
-      }
-    },
-    "title": "Mind Map",
-    "topicOverlapping": "overlap",
-    "zones": []
+      },
+      "skeletonThemeId": "8f137afe-a0f3-4f25-b56a-cfd05993ef4b",
+      "colorThemeId": "Rainforest-#ffffff-MULTI_LINE_COLORS"
+    }
   }
 ]
