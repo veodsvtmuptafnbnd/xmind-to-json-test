@@ -23,39 +23,35 @@
             "children": {
               "attached": [
                 {
-                  "title": "Team",
+                  "title": "Team"
+                },
+                {
+                  "title": "Protocols",
                   "children": {
                     "attached": [
                       {
-                        "title": "Protocols",
+                        "title": "Security",
                         "children": {
                           "attached": [
                             {
-                              "title": "Security",
-                              "children": {
-                                "attached": [
-                                  {
-                                    "title": "OAuth2"
-                                  }
-                                ]
-                              }
-                            },
+                              "title": "OAuth2"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Communication",
+                        "children": {
+                          "attached": [
                             {
-                              "title": "Communication",
+                              "title": "HTTP",
                               "children": {
                                 "attached": [
                                   {
-                                    "title": "HTTP",
-                                    "children": {
-                                      "attached": [
-                                        {
-                                          "title": "GraphQL"
-                                        },
-                                        {
-                                          "title": "REST"
-                                        }
-                                      ]
-                                    }
+                                    "title": "GraphQL"
+                                  },
+                                  {
+                                    "title": "REST"
                                   }
                                 ]
                               }
@@ -147,28 +143,24 @@
                   "title": "Algorithms"
                 },
                 {
-                  "title": "Data structures",
+                  "title": "Data structures"
+                },
+                {
+                  "title": "Continuous Integration / Continuous Deployment (CI/CD) ",
                   "children": {
                     "attached": [
                       {
-                        "title": "Continuous Integration / Continuous Deployment (CI/CD) ",
+                        "title": "Deployment",
                         "children": {
                           "attached": [
                             {
-                              "title": "Deployment",
-                              "children": {
-                                "attached": [
-                                  {
-                                    "title": "Deployment strategies"
-                                  }
-                                ]
-                              }
-                            },
-                            {
-                              "title": "Integration"
+                              "title": "Deployment strategies"
                             }
                           ]
                         }
+                      },
+                      {
+                        "title": "Integration"
                       }
                     ]
                   }
