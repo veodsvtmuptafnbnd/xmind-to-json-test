@@ -15,8 +15,8 @@ for file in $FILES; do
 
   # Extract content.json from xmind archive
   unzip -p "$file" content.json 2>/dev/null \
-    | jq 'del(.controlPoints, .revisionId)' \
-    | jq -S . \
+    | jq 'walk(if type == "object" then del(.controlPoints, .lineEndPoints, .id) else . end)' \
+    | jq . \
     > "$json_file"
 
   if [ $? -ne 0 ]; then
